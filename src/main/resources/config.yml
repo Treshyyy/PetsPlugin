@@ -1,0 +1,4 @@
+pets-added: "&eYou gave a(n) &7%pet% &epet to &7%player%"
+pets-received: "&aYou received a &7%pet% &epet!"
+pet-summoned: "&aYour %pet% &apet has been summoned!"
+pet-unsummoned: "&cYour %pet% &cpet has been unsummoned!"

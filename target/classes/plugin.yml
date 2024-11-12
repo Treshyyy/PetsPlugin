@@ -1,0 +1,9 @@
+name: Pets
+version: '2.0'
+main: com.cota.pets.Pets
+api-version: '1.21'
+
+commands:
+    pets:
+        aliases:
+            - pet

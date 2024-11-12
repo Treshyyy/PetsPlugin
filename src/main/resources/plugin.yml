@@ -1,0 +1,9 @@
+name: Pets
+version: '${project.version}'
+main: com.cota.pets.Pets
+api-version: '1.21'
+
+commands:
+    pets:
+        aliases:
+            - pet
